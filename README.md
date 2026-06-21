@@ -1,2 +1,14 @@
 # crown-wendingpg-guide
-HTML page archive and documentation
+
+静态内容发布记录
+
+发布程序会将生成后的页面写入本仓库，形成可追踪的文件记录。
+
+## 文件说明
+
+- `README.md`：仓库说明
+- `*.html`：发布后的独立页面
+
+## 维护说明
+
+页面内容会根据发布任务逐步追加，具体状态以提交记录为准。
